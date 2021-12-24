@@ -6,25 +6,3 @@
 # Chronic Renal Injury
 # Anticoagulants
 # Delay from admission to procedure
-
-
-
-Age	
-Endoscopist	
-Findings	
-Hospital	
-Hospital Number	
-Immediate Complications	
-Indications
-	
-Post Procedure 
-Complications	
-Priority	
-Procedure	
-Procedure Date	
-Therapies	
-ipe_admissiondate	
-ipe_currcons	
-ipe_currspecialty	
-ipe_currward	
-ipe_dischargedate	ipe_dischargedestn	ipe_dischargemethd	proc_date	Proc_Lag	adm_date	dis_date	Died_Lag	Died_Sub_30	Died_Sub_60	Died_Sub_120	Died_Sub_360	Readmitted
