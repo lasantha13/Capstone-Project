@@ -1,8 +1,0 @@
-# Calculate GBS Score - Hb, Urea, BP, Pulse, Comorbidity, Renal Injury
-# Go back 5 years - Coincides with NICE guidelines
-# Go back before NICE guidelines 2011
-# Outcomes - 30 day mortality, 7 day readmission
-# Length of Stay
-# Chronic Renal Injury
-# Anticoagulants
-# Delay from admission to procedure
